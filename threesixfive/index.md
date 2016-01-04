@@ -6,7 +6,7 @@ search_omit: true
 ---
 
 <div>
-<p>Code for this project can be found on <a href="Projects/clojure/threesixfive/">Github</a>.</p>
+<p>Code for this project can be found on <a href="https://github.com/credmp/threesixfive">Github</a>.
 </div>
 
 <ul id="grid">
