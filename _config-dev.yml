@@ -52,8 +52,9 @@ owner:
   name: Arjen Wiersma
   avatar: arjen.jpg
   email: arjen@wiersma.org
-  disqus-shortname: wickeddutch
+  disqus-shortname: 
   twitter: credmp
+  leanpub: credmp
   facebook: #username
   github: credmp
   stackexchange: #http://stackoverflow.com/users/123456/username
@@ -65,7 +66,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics: UA-20508870-1
+    analytics: #UA-20508870-1
     verify:
     ad-client:
     ad-slot:
