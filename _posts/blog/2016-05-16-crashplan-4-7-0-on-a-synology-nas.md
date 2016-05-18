@@ -6,7 +6,7 @@ categories: blog
 excerpt:
 tags: [synology, crashplan]
 image:
-  feature:
+  feature: 
 date: 2016-05-16T09:19:53+02:00
 ---
 

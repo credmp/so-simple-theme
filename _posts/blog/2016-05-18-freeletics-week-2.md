@@ -6,7 +6,7 @@ categories: blog
 excerpt:
 tags: [freeletics,fitness]
 image:
-  feature:
+  feature: fitness-header-1.jpg
 date: 2016-05-18T21:41:33+02:00
 ---
 
